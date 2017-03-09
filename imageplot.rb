@@ -1,7 +1,13 @@
-#!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-require 'narray'
+# imageplot.rb
+#
+# Author: Rintaro Okamura
+#
+# Description:
+#   Histogram libraries for ruby using gnuplot gem
+#
+
 require 'gnuplot'
 
 module ImagePlot
