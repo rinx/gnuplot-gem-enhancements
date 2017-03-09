@@ -5,7 +5,7 @@
 # Author: Rintaro Okamura
 #
 # Description:
-#   Histogram libraries for ruby using gnuplot gem
+#   heatmap library for ruby using gnuplot gem
 #
 
 require 'gnuplot'
